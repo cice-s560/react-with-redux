@@ -1,0 +1,13 @@
+.marius {
+  color: salmon;
+  background: #444;
+
+  .grande {
+    text-transform: uppercase;
+
+    .grande {
+      text-transform: lowercase;
+      color: green;
+    }
+  }
+}
